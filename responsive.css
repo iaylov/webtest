@@ -1,0 +1,36 @@
+@media screen and (max-width: 600px){
+    .site-main{
+        margin: 0px;
+    }
+    
+    .site-navigation{
+        display: none;
+    }
+
+    .button{
+        width: 25%;
+    }
+
+    .site-logos-container{
+        min-width: 600px;
+    }
+
+    .site-information-image{
+        display: none;
+    }
+
+    .site-information{
+        width: 100%;
+        text-align: center;
+    }
+
+
+    .site-form{
+        margin: 0px;
+    }
+
+    .entry-title{
+        font-size: 0.5rem;
+    }
+
+}
